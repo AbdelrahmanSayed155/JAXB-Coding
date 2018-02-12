@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ChangePrepaidServiceClass_request xmlns="http://xmlns.vfe.com.eg/INTERNET/Client/ChangePrepaidServiceClass/request">
+    <Data>
+        <MSISDN>1001120771</MSISDN>
+        <PackageID>1144</PackageID>
+        <ClientID>WEBSITE</ClientID>
+        <ServiceID>Prepaid_Mig</ServiceID>
+        <Action>i</Action>
+        <MIGRATION_FEES>2</MIGRATION_FEES>
+        <RATEPLAN_RANK>4</RATEPLAN_RANK>
+        <RATEPLAN_COLOR>O</RATEPLAN_COLOR>
+    </Data>
+</ChangePrepaidServiceClass_request>

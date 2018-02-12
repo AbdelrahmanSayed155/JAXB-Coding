@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<school id="1">
+    <address>kamel street</address>
+    <email>tahrir@school.com</email>
+    <name>Tahrir</name>
+    <students>
+        <email>go1@gmail.com</email>
+        <id>1</id>
+        <name>Abdo</name>
+    </students>
+    <students>
+        <email>go2@gmail.com</email>
+        <id>2</id>
+        <name>kamel</name>
+    </students>
+    <students>
+        <email>go5@gmail.com</email>
+        <id>3</id>
+        <name>Samir</name>
+    </students>
+    <students>
+        <email>go9@gmail.com</email>
+        <id>4</id>
+        <name>Soam</name>
+    </students>
+    <students>
+        <email>go10@gmail.com</email>
+        <id>5</id>
+        <name>Belal</name>
+    </students>
+    <students>
+        <email>go541@gmail.com</email>
+        <id>6</id>
+        <name>Doa</name>
+    </students>
+</school>
